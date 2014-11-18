@@ -1,6 +1,7 @@
-#Tag Configuration Editor(CEF)
+#Tag Configuration Editor(TCE)
 ================
 ### The Tag Configuration Editor (TCE) is an application development utility used to create and edit tag configuration files for use in a machine control application. It is distributed as an executable application and can be accessed from the LabVIEW tools menu. The tag configuration files created by the TCE describe the list of tags used in a HMI and controller of the machine control reference architecture and are used to initialize a number of other components in the application.
+ The Tag Configuration Editor was creating using the CEF
 ================
 ####*This repository and any materials provided by NI therein are provided AS IS. NI DISCLAIMS ANY AND ALL LIABILITIES FOR AND MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR  PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY. NI shall have no liability for any direct, indirect, incidental, punitive, special, or consequential damages for your use of the repository or any materials contained therein.*
 ================
